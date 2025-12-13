@@ -1,6 +1,6 @@
 ## Text Embedding models
 
-Text Embedding models transform raw text such as a sentence, paragraph, or tweet—into a fixed-length vector of numbers that captures its semantic meaning. These vectors allow machines to compare and search text based on meaning rather than exact words.
+Text Embedding models transform raw text such as a sentence, paragraph, or tweet into a fixed-length vector of numbers that captures its semantic meaning. These vectors allow machines to compare and search text based on meaning rather than exact words.
 
 ### How it works
 
@@ -21,7 +21,7 @@ Several metrics are commonly used to compare embeddings:
 
 ## Open-source Embedding Models
 
-Sentence-BERT (SBERT)
+**Sentence-BERT (SBERT)**
 
 ```
 all-MiniLM-L6-v2 → 384 dims
@@ -29,9 +29,9 @@ all-MiniLM-L6-v2 → 384 dims
 all-mpnet-base-v2 → 768 dims
 
 ```
-## Closed-source / API-based Embedding Models
+## Closed-source Embedding Models
 
-OpenAI – text-embedding models
+**OpenAI text-embedding models**
 
 ```
 text-embedding-3-small → 1536 dims
@@ -50,3 +50,8 @@ text-embedding-3-large → 3072 dims
 
 2. **embed_documents :** Embeds a list of documents
 
+## References:
+
+1. [Langchain Embedding Model Documentation](https://docs.langchain.com/oss/python/integrations/text_embedding/index#embedding-models)
+
+2. [CampusX Youtube Channel](https://youtu.be/HdcLE8JuMrA?si=s-mgIPc5Z8Jaym_7)
