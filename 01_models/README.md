@@ -19,6 +19,6 @@ There are two categories of models in langchain
 
 For more details, checkout
 
-* [LLM_Chat_Models](LLM_Chat_Models/README.md)
+* [LLM_Chat_Models](LLM_Chat_Models)
 
-* [Text_Embedding_Models](Text_Embedding_Models/README.md)
+* [Text_Embedding_Models](Text_Embedding_Models)
