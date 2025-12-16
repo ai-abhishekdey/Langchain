@@ -16,6 +16,8 @@
   
   * Downloading the model locally and use 
 
+* Langchain HuggingFace Integration documentation [link](https://docs.langchain.com/oss/python/integrations/chat/huggingface)
+
 ### 1.2 Closed Source LLM Chat model
 
 * These models are kept in Model Provider Servers and an API key is required to access it. 
