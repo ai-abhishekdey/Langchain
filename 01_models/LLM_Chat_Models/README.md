@@ -16,7 +16,7 @@
   
   * Downloading the model locally and use 
 
-* Langchain HuggingFace Integration documentation [link](https://docs.langchain.com/oss/python/integrations/chat/huggingface)
+* Langchain HuggingFace integration documentation [link](https://docs.langchain.com/oss/python/integrations/chat/huggingface)
 
 ### 1.2 Closed Source LLM Chat model
 
