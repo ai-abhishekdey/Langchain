@@ -23,3 +23,6 @@ faiss-cpu
 sentence-transformers
 ipykernel
 transformers
+jupyter
+ipywidgets
+tqdm
