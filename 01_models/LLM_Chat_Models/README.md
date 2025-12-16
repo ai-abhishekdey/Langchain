@@ -72,6 +72,9 @@
 
 * Langchain Mistral chat model documentation [link](https://docs.langchain.com/oss/python/integrations/chat/mistralai)
 
+## LangSmith Tracking:
+
+To track the LLM API calls, Check in [LangSmith](https://smith.langchain.com/)
 
 ## Notebooks:
 
