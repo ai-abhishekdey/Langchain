@@ -1,4 +1,4 @@
-## Langchain
+## LangChain
 
 This repo is related to langchain framework 
 
@@ -30,3 +30,9 @@ MISTRAL_API_KEY="yF********************************************"
 LANGSMITH_API_KEY="ls********************************************"
 
 ```
+
+## LangChain Core Components:
+
+1. [Models](01_models)
+
+2. [Vector Stores](02_vector_stores)
