@@ -13,7 +13,6 @@ LangChain provides the following interfaces
 
 * **similarity_search*** - Returns the closest embedded documents
 
-​
 ### Similarity metrics & indexing
 
 Embedding similarity may be computed using:
@@ -32,12 +31,7 @@ Embedding similarity may be computed using:
 
 * [Pincone](https://docs.langchain.com/oss/python/integrations/vectorstores/pinecone)
 
-* [MongoDB](https://docs.langchain.com/oss/python/integrations/vectorstores/mongodb_atlas)
-
 * [Qdrant](https://docs.langchain.com/oss/python/integrations/vectorstores/qdrant)
-
-* [Weaviate](https://docs.langchain.com/oss/python/integrations/vectorstores/weaviate)
-
 
 ## References:
 
