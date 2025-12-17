@@ -50,6 +50,12 @@ text-embedding-3-large → 3072 dims
 
 2. **embed_documents :** Embeds a list of documents
 
+## Notebooks:
+
+* [01_Closed_source_embeding_model.ipynb](01_Closed_source_embeding_model.ipynb)
+
+* [02_Open_source_embeding_model.ipynb](02_Open_source_embeding_model.ipynb)
+
 ## References:
 
 1. [Langchain Embedding Model Documentation](https://docs.langchain.com/oss/python/integrations/text_embedding/index#embedding-models)
