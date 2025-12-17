@@ -33,6 +33,16 @@ Embedding similarity may be computed using:
 
 * [Qdrant](https://docs.langchain.com/oss/python/integrations/vectorstores/qdrant)
 
+### Notebooks:
+
+* [01_chroma.ipynb](01_chroma.ipynb)
+
+* [02_FAISS.ipynb](02_FAISS.ipynb)
+
+* [03_pinecone.ipynb](03_pinecone.ipynb)
+
+* [04_qdrant.ipynb](04_qdrant.ipynb)
+
 ## References:
 
 * [Langchain vector stores documentation](https://docs.langchain.com/oss/python/integrations/vectorstores/index#vector-stores)
