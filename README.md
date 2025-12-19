@@ -35,6 +35,8 @@ LANGSMITH_API_KEY="ls********************************************"
 
 1. [Document Loaders](01_document_loaders)
 
-2. [Models](02_models)
+2. [Text Splitters](02_text_splitters)
 
-3. [Vector Stores](03_vector_stores)
+3. [Models](03_models)
+
+4. [Vector Stores](04_vector_stores)
