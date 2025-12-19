@@ -33,3 +33,4 @@ langchain-qdrant
 langchain-weaviate
 pypdf
 jq
+langchain-text-splitters
