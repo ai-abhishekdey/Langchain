@@ -1,0 +1,58 @@
+{
+    "company": "ABC Retail Pvt Ltd",
+    "generated_on": "2025-03-01",
+    "currency": "INR",
+    "sales_records": [
+        {
+            "order_id": 2001,
+            "order_date": "2025-02-10",
+            "customer": {
+                "name": "Rahul Sharma",
+                "city": "Delhi",
+                "email": "rahul.sharma@example.com"
+            },
+            "product": {
+                "product_id": "P1001",
+                "name": "Laptop",
+                "category": "Electronics",
+                "unit_price": 72000
+            },
+            "quantity": 1,
+            "total_amount": 72000
+        },
+        {
+            "order_id": 2002,
+            "order_date": "2025-02-12",
+            "customer": {
+                "name": "Sneha Das",
+                "city": "Kolkata",
+                "email": "sneha.das@example.com"
+            },
+            "product": {
+                "product_id": "P1002",
+                "name": "Smartphone",
+                "category": "Electronics",
+                "unit_price": 28000
+            },
+            "quantity": 2,
+            "total_amount": 56000
+        },
+        {
+            "order_id": 2003,
+            "order_date": "2025-02-15",
+            "customer": {
+                "name": "Amit Verma",
+                "city": "Bengaluru",
+                "email": "amit.verma@example.com"
+            },
+            "product": {
+                "product_id": "P1003",
+                "name": "Headphones",
+                "category": "Accessories",
+                "unit_price": 3500
+            },
+            "quantity": 3,
+            "total_amount": 10500
+        }
+    ]
+}
