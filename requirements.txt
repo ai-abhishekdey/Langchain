@@ -31,3 +31,5 @@ langchain-mongodb
 pymongo
 langchain-qdrant
 langchain-weaviate
+pypdf
+jq

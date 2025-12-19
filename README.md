@@ -33,6 +33,8 @@ LANGSMITH_API_KEY="ls********************************************"
 
 ## LangChain Core Components:
 
-1. [Models](01_models)
+1. [Document Loaders](01_document_loaders)
 
-2. [Vector Stores](02_vector_stores)
+2. [Models](02_models)
+
+3. [Vector Stores](03_vector_stores)
