@@ -31,7 +31,7 @@ LANGSMITH_API_KEY="ls********************************************"
 
 ```
 
-## LangChain Core Components:
+## LangChain Components:
 
 1. [Document Loaders](01_document_loaders)
 
