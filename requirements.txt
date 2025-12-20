@@ -25,7 +25,7 @@ jupyter
 ipywidgets
 tqdm
 langchain-chroma>=0.1.2
-faiss-gpu
+faiss-cpu
 langchain-pinecone
 langchain-mongodb 
 pymongo
@@ -34,3 +34,5 @@ langchain-weaviate
 pypdf
 jq
 langchain-text-splitters
+ddgs
+youtube_search

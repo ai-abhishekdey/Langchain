@@ -40,3 +40,5 @@ LANGSMITH_API_KEY="ls********************************************"
 3. [Models](03_models)
 
 4. [Vector Stores](04_vector_stores)
+
+5. [Agents & Tools](05_agents_tools)
